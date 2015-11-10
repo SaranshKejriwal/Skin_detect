@@ -1,0 +1,1 @@
+g++ Skin_HSV_Detect.cpp -o skin_Detect -L/usr/include -L/usr/include/opencv -L/opencv/opencv/OpenCV-2.4.3/include  -L/usr/include/opencv2 -L/usr/local/lib -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_objdetect -lopencv_video 
